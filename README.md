@@ -1,32 +1,60 @@
-# 👋 Hi, I'm Vatsalya Bhardwaj  
+<h1 align="center">👋 Hi, I'm Vatsalya Bhardwaj</h1>
+<h3 align="center">💻 Backend Developer | Java | Spring Boot | MySQL</h3>
 
-💻 **Backend Developer** | Java | Spring Boot | MySQL  
-🌱 Passionate about learning & building scalable backend applications  
-🚀 Exploring Open Source & System Design concepts  
+<p align="center">
+🌱 Passionate about building scalable backend applications <br/>
+🚀 Exploring Open Source & System Design concepts <br/>
+</p>
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Java, SQL  
-- **Frameworks:** Spring Boot, Thymeleaf  
-- **Databases:** MySQL  
-- **Tools & IDEs:** Git, GitHub, IntelliJ IDEA, VS Code, Eclipse, Maven  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-darkgreen?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-purple?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-darkblue?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
-- 🎬 **Movie Watchlist Application** – Spring Boot + Thymeleaf + MySQL  
-- 🛒 **Ecomm-UI** – Spring Boot based E-commerce application  
+- 🎬 **Movie Watchlist Application** – *Spring Boot + Thymeleaf + MySQL*  
+- 🛒 **Ecomm-UI** – *Spring Boot based E-commerce application*  
 
 ---
 
 ## 📊 GitHub Stats
-![Vatsalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vatsalya0713&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vatsalya0713&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalya0713&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalya0713&layout=compact&theme=tokyonight)
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsalya0713&theme=tokyonight" height="200"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vatsalya-bhardwaj-a1834036b/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaktisingh7292@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vatsalya-bhardwaj-a1834036b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shaktisingh7292@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ *“Code. Learn. Build. Repeat.”* 🚀
