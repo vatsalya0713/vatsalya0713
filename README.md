@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Vatsalya0713&theme=react-dark&hide_border=true" height="200"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=vatsalya0713&theme=react-dark&hide_border=true" height="200"/>
 </p>
 
 
