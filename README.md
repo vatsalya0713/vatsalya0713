@@ -1,7 +1,8 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vatsalya+Bhardwaj;💻+Backend+Developer;🚀+Spring+Boot+%7C+Java+%7C+MySQL;🌱+Exploring+Open+Source+and+System+Design" alt="Typing SVG" />
-</h1>
+# 👋 Hi, I'm Vatsalya Bhardwaj  
+
+💻 **Backend Developer** | Java | Spring Boot | MySQL  
+🌱 Passionate about learning & building scalable backend applications  
+🚀 Exploring Open Source & System Design concepts  
 
 ---
 
@@ -35,7 +36,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vatsalya0713&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=Vatsalya0713&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 ---
